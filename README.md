@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @CatMWard
+- 👋 Hi, I’m Cat - @CatMWard
 - 👀 I’m interested in always learning more when it comes to software & technology.  I'll never get tired of learning!
 - 🌱 I’m currently learning more Backend Development to enhance my Frontend skills so that I know the FullStack.  
 - 📫 support@dynamicwebdev.com
