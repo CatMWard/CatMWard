@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CatMWard
 - 👀 I’m interested in always learning more when it comes to software & technology.  I'll never get tired of learning!
-- 🌱 I’m currently learning more Backend Development to enhance my Frontend skills so that I know the FUllStack.  
+- 🌱 I’m currently learning more Backend Development to enhance my Frontend skills so that I know the FullStack.  
 - 📫 support@dynamicwebdev.com
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I actually studied Criminal Justice/Forensic Science in college, I wanted to cut up dead bodies in the Clark County Coroners office, but life happens and I am actually really good in software. 
